@@ -10,7 +10,7 @@ h1{
 	margin: 1%;
 	padding: 10px;
 	width: 31%;
-	border: 1px thick black;
+	border: 1px solid black;
 	background-color: grey;
 	float: left;
 	font-family: Arial;
@@ -26,7 +26,7 @@ h2{
 	margin: 0px;
 	padding: 5px 40px;
 	text-align: center;
-	border: 1px thick black;
+	border: 1px solid black;
 	position: relative;
 	top: -10px;
 	left: 10px;
